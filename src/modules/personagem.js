@@ -3,7 +3,6 @@ export class Personagem {
     vida = 100
     mana = 100
     level
-    tipo
     descricao
 
     constructor(nome, level) {
